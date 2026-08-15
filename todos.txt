@@ -2,3 +2,4 @@ add a letter
 Edit the last video
 HW of logic circuits.
 do the dishes
+go to git!
